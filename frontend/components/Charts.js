@@ -1,6 +1,6 @@
 import React from "react";
 import Chart from "./Chart";
-
+//added dependancies 12-6
 const Charts = ({ coinData }) => {
   return (
     <div className="charts">
